@@ -1,8 +1,42 @@
-# CEIA - TPs - Procesamiento Lenguaje Natural 1
-TPs de la materia Procesamiento Lenguaje Natural 1 de la CEIA
+# 🧠 CEIA – TPs – Procesamiento de Lenguaje Natural I
 
-Alumna: Natalia Espector (nataliaespector@gmail.com)
+Este repositorio contiene los **trabajos prácticos (TPs)** de la materia **Procesamiento de Lenguaje Natural I** de la **Carrera de Especialización en Inteligencia Artificial (CEIA)** – FIUBA.
 
-## Índice
-- Desafío 1 - [Abrir en Colab](https://colab.research.google.com/github/nataliaespector/CEIA_TPs_Procesamiento_Lenguaje_Natural_1/blob/main/Espector_PLN_Desafio_1.ipynb)
-- Desafío 2 - [Abrir en Colab](https://colab.research.google.com/github/nataliaespector/CEIA_TPs_Procesamiento_Lenguaje_Natural_1/blob/main/Espector_PLN_Desafio_2.ipynb)
+**Alumna:** Natalia Espector  
+📧 nataliaespector@gmail.com
+
+---
+
+## 📑 Índice de Desafíos
+
+### 🧭 Desafío 1 – Clasificación de Documentos
+Vectorización del corpus **20 Newsgroups**, análisis de **similitud coseno** de palabras y documentos, y **clasificación de documentos** con modelos de Naive Bayes.
+
+👉 [Abrir en Colab](https://colab.research.google.com/github/nataliaespector/CEIA_TPs_Procesamiento_Lenguaje_Natural_1/blob/main/Espector_PLN_Desafio_1.ipynb)
+
+---
+
+### 🧰 Desafío 2 – Similitud y representaciones
+Entrenamiento de un modelo **Word2Vec** sobre letras de **Bob Dylan**, análisis de **similitud** (coseno) y reducción de dimensionalidad para la **visualización**.
+
+👉 [Abrir en Colab](https://colab.research.google.com/github/nataliaespector/CEIA_TPs_Procesamiento_Lenguaje_Natural_1/blob/main/Espector_PLN_Desafio_2.ipynb)
+
+---
+
+### ✍️ Desafío 3 – Modelo de Lenguaje (Tokenización por Caracteres)
+Entrenamiento caracter a caracter sobre **Cinco Semanas en Globo (Julio Verne)** con **SimpleRNN**, **LSTM** y **GRU**. Decodificación con **Greedy**, **Beam determinista** y **Beam estocástico** (temperatura).
+
+**Notebooks:**
+- 👉 SimpleRNN → [Abrir en Colab](https://colab.research.google.com/github/nataliaespector/CEIA_TPs_Procesamiento_Lenguaje_Natural_1/blob/main/Espector_PLN_Desafio_3_1_SimpleRNN.ipynb)  
+- 👉 LSTM → [Abrir en Colab](https://colab.research.google.com/github/nataliaespector/CEIA_TPs_Procesamiento_Lenguaje_Natural_1/blob/main/Espector_PLN_Desafio_3_2_LSTM.ipynb)  
+- 👉 GRU → [Abrir en Colab](https://colab.research.google.com/github/nataliaespector/CEIA_TPs_Procesamiento_Lenguaje_Natural_1/blob/main/Espector_PLN_Desafio_3_3_GRU.ipynb)
+
+---
+
+## 🛠️ Requisitos
+- Python 3.10+
+- PyTorch
+- NumPy
+
+> ⚡ Todos los notebooks están listos para ejecutarse en **Google Colab**.
+
