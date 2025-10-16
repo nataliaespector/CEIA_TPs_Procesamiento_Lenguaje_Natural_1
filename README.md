@@ -33,6 +33,13 @@ Entrenamiento caracter a caracter sobre **Cinco Semanas en Globo (Julio Verne)**
 
 ---
 
+### 🧰 Desafío 4 – Traducción inglés-español
+Entrenamiento de un traductor **Seq2Seq** en Pytorch con **LSTM** utilizando el **diccionario inglés-español de Anki**. Análisis de **validation accuracy** y **pruebas de inferencia** modificando hiperparámetros y arquitectura.
+
+👉 [Abrir en Colab](https://colab.research.google.com/github/nataliaespector/CEIA_TPs_Procesamiento_Lenguaje_Natural_1/blob/main/Espector_PLN_Desaf%C3%ADo_4.ipynb)
+
+---
+
 ## 🛠️ Requisitos
 - Python 3.10+
 - PyTorch
